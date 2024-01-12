@@ -1,7 +1,7 @@
 # gRadar
 SCRIPT RADAR  BEM INETRESSANTE REMAKE QUE ACABEI FAZENDO DELE FICOU MUITO TOP
 
-**Tutorial:**
+**Video Preview:**
 
 | [![Assista ao vídeo](https://img.youtube.com/vi/ioIp9qv3u9M/0.jpg)](https://www.youtube.com/watch?v=ioIp9qv3u9M) |
 | --- |
